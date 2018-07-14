@@ -21,3 +21,4 @@ for i in range(2,int(sqrt(n))+1):
         print(n ,"is not prime")
     else:
         print(n ,"is prime")
+
